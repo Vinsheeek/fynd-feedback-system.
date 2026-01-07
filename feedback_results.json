@@ -1,0 +1,148 @@
+[
+    {
+        "review_text": "Food was average but staff was friendly",
+        "predicted_stars": 3,
+        "explanation": "Neutral tone with mild positives",
+        "prompt_version": "B"
+    },
+    {
+        "review_text": "Food was average but staff was friendly",
+        "predicted_stars": 3,
+        "actual_stars": 3,
+        "explanation": "Neutral tone with mild positives",
+        "prompt_version": "B"
+    },
+    {
+        "review_text": "Food was average but staff was friendly",
+        "predicted_stars": 3,
+        "actual_stars": 3,
+        "explanation": "Neutral tone with mild positives",
+        "prompt_version": "B"
+    },
+    {
+        "review_text": "Loved the food but service was slow",
+        "predicted_stars": 4,
+        "actual_stars": 3,
+        "explanation": "Positive tone but service issue",
+        "prompt_version": "B"
+    },
+    {
+        "review_text": "Loved the food but service was slow",
+        "predicted_stars": 4,
+        "actual_stars": 3,
+        "explanation": "Positive tone but service issue",
+        "prompt_version": "B"
+    },
+    {
+        "review_text": "The food was delicious and the staff was very kind.",
+        "predicted_stars": 5,
+        "actual_stars": 5,
+        "explanation": "Strongly positive tone with no complaints",
+        "prompt_version": "A"
+    },
+    {
+        "review_text": "The food was delicious and the staff was very kind.",
+        "predicted_stars": 5,
+        "actual_stars": 5,
+        "explanation": "Strongly positive tone with no complaints",
+        "prompt_version": "A"
+    },
+    {
+        "review_text": "Food tasted good but the place was noisy and crowded.",
+        "predicted_stars": 4,
+        "actual_stars": 3,
+        "explanation": "Mixed tone but environment issues present",
+        "prompt_version": "A"
+    },
+    {
+        "review_text": "Average experience. Nothing great but nothing terrible either.",
+        "predicted_stars": 3,
+        "actual_stars": 3,
+        "explanation": "Neutral tone with balanced sentiment",
+        "prompt_version": "A"
+    },
+    {
+        "review_text": "Average experience. Nothing great but nothing terrible either.",
+        "predicted_stars": 3,
+        "actual_stars": 3,
+        "explanation": "Neutral tone with balanced sentiment",
+        "prompt_version": "A"
+    },
+    {
+        "review_text": "Average experience. Nothing great but nothing terrible either.",
+        "predicted_stars": 3,
+        "actual_stars": 3,
+        "explanation": "Neutral tone with balanced sentiment",
+        "prompt_version": "A"
+    },
+    {
+        "review_text": "Service was slow even though the food was nice.",
+        "predicted_stars": 4,
+        "actual_stars": 3,
+        "explanation": "Positive food tone but service complaint present",
+        "prompt_version": "A"
+    },
+    {
+        "review_text": "Terrible experience, cold food and rude service.",
+        "predicted_stars": 1,
+        "actual_stars": 1,
+        "explanation": "Strong negative tone with clear dissatisfaction",
+        "prompt_version": "A"
+    },
+    {
+        "review_text": "Terrible experience, cold food and rude service.",
+        "predicted_stars": 1,
+        "actual_stars": 1,
+        "explanation": "Strong negative tone with clear dissatisfaction",
+        "prompt_version": "A"
+    },
+    {
+        "review_text": "Good quality meals and quick delivery.",
+        "predicted_stars": 4,
+        "actual_stars": 4,
+        "explanation": "Positive tone with no major issues",
+        "prompt_version": "C"
+    },
+    {
+        "review_text": "Food was okay but portion size was very small.",
+        "predicted_stars": 4,
+        "actual_stars": 3,
+        "explanation": "Neutral tone but clear dissatisfaction about quantity",
+        "prompt_version": "C"
+    },
+    {
+        "review_text": "Loved the ambience and great food presentation.",
+        "predicted_stars": 5,
+        "actual_stars": 5,
+        "explanation": "Highly positive tone",
+        "prompt_version": "C"
+    },
+    {
+        "review_text": "Expected better taste for the price.",
+        "predicted_stars": 3,
+        "actual_stars": 2,
+        "explanation": "Tone indicates disappointment",
+        "prompt_version": "C"
+    },
+    {
+        "review_text": "Expected better taste for the price.",
+        "predicted_stars": 3,
+        "actual_stars": 2,
+        "explanation": "Tone indicates disappointment",
+        "prompt_version": "C"
+    },
+    {
+        "review_text": "Really bad experience. Food was stale.",
+        "predicted_stars": 1,
+        "actual_stars": 1,
+        "explanation": "Strong negative dissatisfaction",
+        "prompt_version": "C"
+    },
+    {
+        "review_text": "Really bad experience. Food was stale.",
+        "predicted_stars": 1,
+        "actual_stars": 1,
+        "explanation": "Strong negative dissatisfaction",
+        "prompt_version": "C"
+    }
+]
